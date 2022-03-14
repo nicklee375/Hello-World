@@ -1,6 +1,6 @@
 # ML portfolio
 
-Hi there, this is a small collection of my machine learning portfolio to showcase some of my skills
+Hi there, this is a small collection of my machine learning portfolio to showcase some of machine learning skills with Python
 
 Projects:
 1. Predicting bike rental usage based on weather - SVM and RFR (supervised learning)
