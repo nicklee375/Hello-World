@@ -1,6 +1,6 @@
 # Machine Learning portfolio
 
-Hi there, this is a small collection of my machine learning portfolio which I embarked on as a personal hobby. Hope you enjoyed it!
+Hi there, this is a small collection of my machine learning portfolio which I embarked on as a personal hobby. Hope you will enjoy it!
 
 Projects:
 1. Predicting bike rental usage based on weather - SVM and RFR (supervised learning)
